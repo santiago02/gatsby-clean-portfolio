@@ -4,7 +4,7 @@ import Layout from "../components/layout/Layout"
 import Hero from "../components/hero/Hero"
 import Summary from "../components/summary/Summary"
 import Projects from "../components/projects/Projects"
-import App from "../components/app/App"
+import Appl from "../components/app/Appl"
 
 //import bootstrap styles
 import "../bootstrap/css/bootstrap.min.css"
@@ -16,7 +16,7 @@ import App from "../components/app/app"
 export default () => (
   <div className="App">
     <Layout>
-      <App />
+      <Appl />
       <Hero />
       <hr />
       <Summary />
