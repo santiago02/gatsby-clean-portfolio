@@ -5,6 +5,7 @@ import { Jumbotron } from "react-bootstrap"
 import "./hero.css"
 import SocialRow from "../SocialRow/SocialRow"
 
+
 const Hero = () => (
   <Jumbotron style={jumbo_styles} className="jumbo" fluid>
     <div className="jumbo_content">
