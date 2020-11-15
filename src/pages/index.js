@@ -11,7 +11,7 @@ import "../bootstrap/css/bootstrap.min.css"
 
 //import my custom styles
 import "./index.css"
-import App from "../components/app/app"
+//import App from "../components/app/app"
 
 export default () => (
   <div className="App">
