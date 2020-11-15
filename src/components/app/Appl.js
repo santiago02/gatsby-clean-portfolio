@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import { utils } from "react-bootstrap"
 import api from "../../utils/api"
 
-export default  class App extends Component {
+export default  class Appl extends Component {
 
     componentDidMount(){
 
